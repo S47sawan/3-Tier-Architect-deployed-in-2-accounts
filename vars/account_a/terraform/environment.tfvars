@@ -1,0 +1,8 @@
+region_name       = "eu-west-2"
+client_abbr       = "mob"
+owner             = "Smihah.Awan"
+environment       = "vpc-a-pub"
+environment_short = "dev"
+account_no        = "898028383603"
+project           = "Mobilise-Workshop"
+# profile = "account-a"

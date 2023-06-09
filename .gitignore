@@ -1,0 +1,10 @@
+plans
+.terraform
+.terraform.lock.hcl
+.tfstate
+*.tfstate*
+.DS_Store
+plans/
+scratch
+*.retry
+*tmp
